@@ -1,0 +1,9 @@
+Package: dev.cmplx.ihateytads
+Name: iHateYTAds
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Removes *most* of Youtubes Ads
+Maintainer: cmplx
+Author: cmplx
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

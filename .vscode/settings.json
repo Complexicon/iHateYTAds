@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.h": "objective-c"
+	},
+	"clangd.path": "/home/pleer/theos/toolchain/linux/iphone/bin/clangd"
+}

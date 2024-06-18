@@ -1,0 +1,5 @@
+CompileFlags:
+	Add: [-x, objective-c,-c,-I/home/pleer/workspace/iHateYTAds,-I/home/pleer/theos/include/iphone,-I/home/pleer/theos/include,-I/home/pleer/theos/vendor/include,-I/home/pleer/theos/include/_fallback,-include,/home/pleer/theos/Prefix.pch,-iquote,/home/pleer/workspace/iHateYTAds,-DTARGET_IPHONE=1,-O0,-Wall,-ggdb,-Wno-unused-command-line-argument,-Qunused-arguments,-F/home/pleer/theos/sdks/iPhoneOS16.5.sdk/System/Library/PrivateFrameworks,-F/home/pleer/theos/vendor/lib,-F/home/pleer/theos/lib,-F/home/pleer/theos/lib/iphone,-Werror,-D,THEOS_PACKAGE_INSTALL_PREFIX=,-isysroot,"/home/pleer/theos/sdks/iPhoneOS16.5.sdk",-target,arm64-apple-ios14.0,-resource-dir,/home/pleer/theos/toolchain/linux/iphone/bin/../lib/swift/clang,-fobjc-arc,-DDEBUG,-O0,-DTHEOS_INSTANCE_NAME=iHateYTAds,-fmodules,-fcxx-modules,-fmodule-name=iHateYTAds]
+	Compiler: /home/pleer/theos/toolchain/linux/iphone/bin/clang
+InlayHints:
+  Enabled: No
